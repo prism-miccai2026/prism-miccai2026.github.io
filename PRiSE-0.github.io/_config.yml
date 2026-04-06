@@ -1,0 +1,33 @@
+title: PRiSM 2026
+full_title: Precise Mixed Reality for Surgical and Medical Interventions (PRiSM)
+subtitle: MICCAI 2026 Workshop
+description: Advancing CAI with mixed reality and translational imaging workflows
+logo: /assets/img/miccai2026logo.png
+contact_email: Prism.miccai2026@gmail.com
+workshop_location: Abu Dhabi, UAE
+url: https://prism-0.github.io
+baseurl: ""
+remote_theme: Bilal2453/cayman-docs
+
+# Layout
+show_social: false
+show_excerpts: false
+show_sidebar: false
+
+navigation:
+  name_over_title: false
+  toc_parameter: []
+
+# # Menu
+# navigation:
+#   - {file: "index.html", title: "Home", icon: home}
+#   - {file: "people.md", title: "People", icon: address-card}
+#   - {file: "/program.md", title: "Program", icon: address-card}
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
