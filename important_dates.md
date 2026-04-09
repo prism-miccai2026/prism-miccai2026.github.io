@@ -12,6 +12,5 @@ filename: important_dates
 - Notification of paper decisions: July 31, 2026
 - Proceedings materials due: September 3, 2026
 - MICCAI 2026 workshop dates: October 4 or 8, 2026
-- Venue: Abu Dhabi, UAE
 
 Please also check the [Home](./index.html) page for updates.

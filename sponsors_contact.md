@@ -21,4 +21,4 @@ We welcome sponsorship and industry engagement for PRiSM 2026. The workshop offe
 
 ## Venue
 
-MICCAI 2026 Workshop, Abu Dhabi, UAE.
+MICCAI 2026 Workshop.

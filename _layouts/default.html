@@ -58,7 +58,7 @@
 
       <footer class="site-footer">
         <span class="site-footer-credits">
-          PRiSM @ MICCAI 2026 | {{ site.workshop_location }} | Contact:
+          PRiSM @ MICCAI 2026{% if site.workshop_location and site.workshop_location != "" %} | {{ site.workshop_location }}{% endif %} | Contact:
           <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
         </span>
       </footer>
