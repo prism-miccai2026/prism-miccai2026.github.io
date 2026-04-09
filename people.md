@@ -124,6 +124,7 @@ filename: people
   <div>
     <strong>Prof. Stefanie Speidel</strong><br/>
     Keynote speaker (confirmed), NCT Dresden, Germany
+    <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology">Profile</a>
   </div>
 </div>
 
