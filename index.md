@@ -5,7 +5,7 @@ description: PRiSM 2026 Workshop
 filename: index
 ---
 
-# About Our Workshop
+# About the Workshop
 
 From planning and intraoperative guidance to clinical training, deployment, and translation.
 
