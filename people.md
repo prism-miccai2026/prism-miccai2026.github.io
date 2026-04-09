@@ -99,7 +99,7 @@ filename: people
 
 ## Industry Advisory Committee (Invited)
 
-<div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
+<!-- <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;"> -->
   <!-- <img src="/assets/img/people/malcolm_luker.jpg" alt="Malcolm Luker" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" /> -->
   <!-- <div>
     <strong>Malcolm Luker</strong><br/>
