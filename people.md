@@ -88,6 +88,15 @@ filename: people
   </div>
 </div>
 
+<div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
+  <img src="/assets/img/people/k_ty_bae.png" alt="Kyongtae Ty Bae" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <div>
+    <strong>Kyongtae Ty Bae</strong><br/>
+    Department of Diagnostic Radiology, Queen Mary Hospital, Hong Kong SAR, China<br/>
+    <a href="https://radiology.med.hku.hk/en/Our-Team/Academic-Staff/Professor-K-Ty-BAE/Prof-Bae-Profile">Profile</a>
+  </div>
+</div>
+
 ## Industry Advisory Committee (Invited)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
