@@ -19,7 +19,6 @@ People portrait file naming convention (`/assets/img/people/`):
 - `shahid_farid.jpg`
 - `dirk_wilhelm.jpg`
 - `albert_el_hajj.jpg`
-- `malcolm_luker.jpg`
 - `boytsova_evelina.jpg`
 - `stefanie_speidel.jpg`
 - `pieter_de_backer.jpg`
