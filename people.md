@@ -46,7 +46,7 @@ filename: people
   <img src="/assets/img/people/xukun_zhang.jpg" alt="Xukun Zhang" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Xukun Zhang</strong><br/>
-    ECR (Post-doc in Augmented Reality), University of Hong Kong
+    ECR (Post-doc in Augmented Reality), The University of Hong Kong
   </div>
 </div>
 
