@@ -35,7 +35,7 @@ filename: people
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="/assets/img/people/peng_liu.jpg" alt="Peng Liu" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <img src="/assets/img/people/peng_liu.jpeg" alt="Peng Liu" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Peng Liu</strong><br/>
     ECR (PhD student in Interventional Oncology), NCT Dresden, Germany
@@ -51,7 +51,7 @@ filename: people
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="/assets/img/people/mikolaj_kowal.jpg" alt="Mikolaj Kowal" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <img src="/assets/img/people/mikolaj_kowal.jpeg" alt="Mikolaj Kowal" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Mikolaj Kowal</strong><br/>
     Clinical Research Fellow in General Surgery, University of Leeds, UK<br/>
@@ -62,7 +62,7 @@ filename: people
 ## Clinical Advisory Committee (Invited)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="/assets/img/people/shahid_farid.jpg" alt="Shahid Farid" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <img src="/assets/img/people/shahid_farid.png" alt="Shahid Farid" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Shahid Farid</strong><br/>
     Department of HPB and Transplant Surgery, Saint James Hospital, UK<br/>
@@ -111,7 +111,7 @@ filename: people
 ## Invited Keynote and Panel Experts (Preliminary)
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="/assets/img/people/stefanie_speidel.jpg" alt="Stefanie Speidel" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <img src="/assets/img/people/stefanie_speidel.jpeg" alt="Stefanie Speidel" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Prof. Stefanie Speidel</strong><br/>
     Keynote speaker (confirmed), NCT Dresden, Germany
@@ -119,7 +119,7 @@ filename: people
 </div>
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
-  <img src="/assets/img/people/pieter_de_backer.jpg" alt="Pieter De Backer" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
+  <img src="/assets/img/people/pieter_de_backer.jpeg" alt="Pieter De Backer" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Dr. Pieter De Backer</strong><br/>
     Keynote and panel invite (preliminary), Orsi Academy<br/>
