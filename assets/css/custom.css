@@ -45,6 +45,11 @@
   border-color: rgba(255, 255, 255, 0.84);
 }
 
+.page-header .hero-tagline {
+  margin: 0.2rem 0 !important;
+  line-height: 1.12 !important;
+}
+
 @media (max-width: 768px) {
   .page-header {
     padding-right: 160px !important;
