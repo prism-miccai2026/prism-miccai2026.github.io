@@ -2,9 +2,9 @@ Website source for:
 
 PRiSM 2026 - Precise Mixed Reality for Surgical and Medical Interventions.
 
-Publishing notes for `prism-0.github.io`:
+Publishing notes for `prism-miccai2026.github.io`:
 
-1. Repository name must be `prism-0.github.io`.
+1. Repository name must be `prism-miccai2026.github.io`.
 2. In GitHub `Settings -> Pages`, set Source to `GitHub Actions`.
 3. Push to `main` (or `master`) and wait for the `Deploy Jekyll site to Pages` workflow to succeed.
 
