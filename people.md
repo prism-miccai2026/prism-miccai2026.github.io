@@ -123,7 +123,7 @@ filename: people
   <img src="/assets/img/people/stefanie_speidel.jpeg" alt="Stefanie Speidel" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
   <div>
     <strong>Prof. Stefanie Speidel</strong><br/>
-    Keynote speaker (confirmed), NCT Dresden, Germany
+    Keynote speaker (confirmed), NCT Dresden, Germany<br/>
     <a href="https://www.nct-dresden.de/en/research/departments-and-groups/translational-surgical-oncology">Profile</a>
   </div>
 </div>
