@@ -42,7 +42,7 @@ Submit your contribution to AECAI-PRiSM 2026 by **July 16th** via **[CMT](https:
 
 **Special Issue Publication:**
 
-- Workshop proceedings will be published in a Special Issue on AE-CAI | CARE | OR 2.0 | PRiSM of Wiley's IET Healthcare Technology Letters journal.
+- Workshop proceedings will be published in a Special Issue on AE-CAI \| CARE \| OR 2.0 \| PRiSM of Wiley's IET Healthcare Technology Letters journal.
 - Wiley's IET HTL is an open access journal, and the publisher has agreed to a **50% discount** for all AECAI 2026 papers. Wiley will also provide waivers/discounts to corresponding authors from institutions in countries on the Waivers and Discounts List.
 
 ## Important Dates
@@ -51,7 +51,7 @@ Submit your contribution to AECAI-PRiSM 2026 by **July 16th** via **[CMT](https:
 - **Aug 6th, 2026**: Notification of Acceptance to Workshop
 - **Aug 20th, 2026**: Response to Reviewers and Revised Manuscripts Due
 - **Aug 31st, 2026**: Notification about Special Issue Proceedings
-- **Sept 27th, 2026**: Joint AE-CAI | CARE | OR 2.0 | PRiSM Workshop
+- **Sept 27th, 2026**: Joint AE-CAI \| CARE \| OR 2.0 \| PRiSM Workshop
 
 ## Contact
 
