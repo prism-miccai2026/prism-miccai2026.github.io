@@ -11,7 +11,7 @@ The 1st edition of the PRiSM workshop will join forces with the 20th anniversary
 
 ## Topics of Interest
 
-For our **PRiSM | AE-CAI** track, topics of interest include, but are not limited to:
+Topics of interest include, but are not limited to:
 
 - Augmented, virtual and mixed reality Medical image visualization and understanding
 - Surgical simulation and training
