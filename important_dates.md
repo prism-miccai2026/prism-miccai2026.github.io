@@ -4,13 +4,13 @@ title: Important Dates
 description: Important Dates
 filename: important_dates
 ---
-
 ## Important Dates
 
-- Workshop website launch: April 1-10, 2026
-- Paper submission deadline: July 1, 2026
-- Notification of paper decisions: July 31, 2026
-- Proceedings materials due: September 3, 2026
-- MICCAI 2026 workshop dates: October 4 or 8, 2026
+- **July 16th, 2026**: Paper Submission Deadline
+- **Aug 6th, 2026**: Notification of Acceptance to Workshop
+- **Aug 20th, 2026**: Response to Reviewers and Revised Manuscripts Due
+- **Aug 31st, 2026**: Notification about Special Issue Proceedings
+- **Sept 27th, 2026**: Joint AE-CAI | CARE | OR 2.0 | PRiSM Workshop
+- **Venue**: Strasbourg, France
 
 Please also check the [Home](./index.html) page for updates.
