@@ -49,6 +49,7 @@ In addition to the above, we explicitly welcome medical imaging and intervention
 ## Explore
 
 - [Call for Papers &amp; Demos](./call_for_paper.html)
+- [Submission Instructions](./submission.html)
 - [Programme](./program.html)
 - [Accepted Papers](./accepted_papers.html)
 - [Awards](./awards.html)

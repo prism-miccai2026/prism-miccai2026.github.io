@@ -32,13 +32,14 @@ We also welcome submission of **proposals for live demos**. All accepted demos w
 
 ## Paper Submission & Proceedings
 
-Submit your contribution to AECAI-PRiSM 2026 by **July 16th** via **[CMT](https://cmt3.research.microsoft.com/)**.
+Submit your contribution to AECAI-PRiSM 2026 by **July 16th, 2026** via the **[AECAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**. Detailed submission information is available on the [Submission Instructions](./submission.html) page.
 
 **Formatting & Requirements:**
 
-- Please format your manuscript according to the template of the Wiley Healthcare Technology Letters (HTL) journal. The Author Guide offers LaTeX templates.
+- Please format your manuscript according to the template of the Wiley Healthcare Technology Letters (HTL) journal. The **[Wiley HTL Author Guide](https://digital-library.theiet.org/journals/htl/author-guide)** provides both **[Microsoft Word](https://digital-library.theiet.org/files/HTL_Word_template_2016.doc)** and **[LaTeX](https://digital-library.theiet.org/files/HTL_LaTeX_Template_2014.zip)** templates.
 - We recommend **8 to 10-page manuscripts** for initial submission, and **up to 12-page manuscripts post-revision** for publication.
 - Please format your manuscripts using the Wiley IET HTL style files and formatting before submission.
+- All reviews will be **double blind** in accordance with MICCAI 2026 regulations. Initial submissions should be anonymized following the **[MICCAI 2026 paper submission guidelines](https://conferences.miccai.org/2026/en/PAPER-SUBMISSION-GUIDELINES.html)**.
 
 **Special Issue Publication:**
 
