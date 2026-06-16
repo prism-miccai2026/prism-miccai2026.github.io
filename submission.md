@@ -7,11 +7,11 @@ filename: submission
 
 ## Submission Instructions
 
-PRiSM 2026 submissions are handled through the joint AECAI-PRiSM 2026 submission process.
+PRiSM 2026 submissions are handled through the joint AE-CAI-PRiSM 2026 submission process.
 
 ## Submission Website
 
-Please submit your contribution through the **[AECAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**.
+Please submit your PRiSM 2026 contribution through the **[AE-CAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**.
 
 ## Formatting and Templates
 
@@ -29,11 +29,11 @@ Initial submissions should not include author names, affiliations, websites, ack
 
 We encourage submissions that demonstrate clinical relevance, clinical applications, and validation studies. We also welcome bold new ideas, proof-of-concept systems, early-stage prototypes, and innovative approaches that make computer-assisted intervention tools more accessible, affordable, and clinically deployable.
 
-Papers will be peer-reviewed and assessed based on quality, scientific merit, clinical and translational relevance, and suitability for presentation at the joint AE-CAI | CARE | OR 2.0 | PRiSM workshop.
+Papers will be peer-reviewed and assessed based on quality, scientific merit, clinical and translational relevance, and suitability for presentation at the joint AE-CAI, CARE, OR 2.0, and PRiSM workshop.
 
 ## Proceedings and Open Access
 
-Workshop proceedings will be published in a Special Issue on AE-CAI | CARE | OR 2.0 | PRiSM of Wiley's IET Healthcare Technology Letters journal. Wiley's IET HTL is an open access journal, and the publisher has agreed to a **50% discount** for all AECAI 2026 papers. Wiley also provides **[waivers and discounts](https://authors.wiley.com/open-research/open-access/for-authors/waivers-and-discounts.html)** for eligible corresponding authors.
+Workshop proceedings will be published in a Special Issue on AE-CAI, CARE, OR 2.0, and PRiSM of Wiley's IET Healthcare Technology Letters journal. Wiley's IET HTL is an open access journal, and the publisher has agreed to a **50% discount** for all AE-CAI 2026 papers. Wiley also provides **[waivers and discounts](https://authors.wiley.com/open-research/open-access/for-authors/waivers-and-discounts.html)** for eligible corresponding authors.
 
 ## Important Dates
 
@@ -41,7 +41,7 @@ Workshop proceedings will be published in a Special Issue on AE-CAI | CARE | OR 
 - **Aug 6th, 2026**: Notification of Acceptance to Workshop
 - **Aug 20th, 2026**: Response to Reviewers and Revised Manuscripts Due
 - **Aug 31st, 2026**: Notification about Special Issue Proceedings
-- **Sept 27th, 2026**: Joint AE-CAI | CARE | OR 2.0 | PRiSM Workshop
+- **Sept 27th, 2026**: Joint AE-CAI, CARE, OR 2.0, and PRiSM Workshop
 
 ## Contact
 
