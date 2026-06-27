@@ -15,7 +15,7 @@ Please submit your PRiSM 2026 contribution through the **[AE-CAI 2026 CMT submis
 
 ## Demo Proposal Template
 
-For live demo submissions, please use the **[AE-CAI | PRiSM 2026 one-page demo proposal template](/assets/files/demo_template_aecai_prism_2026.docx)**. This template is for demo proposals only. It requests a short abstract, a one-page demo summary, resource requirements, consent information where applicable, and a downloadable demo video link.
+For live demo submissions, please use the **[AE-CAI and PRiSM 2026 one-page demo proposal template](/assets/files/demo_template_aecai_prism_2026.docx)**. This template is for demo proposals only. It requests a short abstract, a one-page demo summary, resource requirements, consent information where applicable, and a downloadable demo video link.
 
 ## Formatting and Templates
 
