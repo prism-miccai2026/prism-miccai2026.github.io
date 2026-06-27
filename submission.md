@@ -13,6 +13,10 @@ PRiSM 2026 submissions are handled through the joint AE-CAI-PRiSM 2026 submissio
 
 Please submit your PRiSM 2026 contribution through the **[AE-CAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**.
 
+## Demo Proposal Template
+
+For live demo submissions, please use the **[AE-CAI | PRiSM 2026 one-page demo proposal template](/assets/files/demo_template_aecai_prism_2026.docx)**. This template is for demo proposals only. It requests a short abstract, a one-page demo summary, resource requirements, consent information where applicable, and a downloadable demo video link.
+
 ## Formatting and Templates
 
 Manuscripts should be formatted according to Wiley's Healthcare Technology Letters (HTL) journal style. Please consult the **[Wiley HTL Author Guide](https://digital-library.theiet.org/journals/htl/author-guide)**, which provides both the **[Microsoft Word template](https://digital-library.theiet.org/files/HTL_Word_template_2016.doc)** and **[LaTeX template](https://digital-library.theiet.org/files/HTL_LaTeX_Template_2014.zip)**.

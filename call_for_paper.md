@@ -30,6 +30,8 @@ Topics of interest include, but are not limited to:
 
 We also welcome submission of **proposals for live demos**. All accepted demos will be showcased during the AE-CAI-PRiSM Workshop on Sept 27th and will be featured in the 2026 Special Issue of Wiley's Healthcare Technology Letters journal dedicated to the 2026 AE-CAI-PRiSM proceedings.
 
+For live demo submissions, please use the **[AE-CAI | PRiSM 2026 one-page demo proposal template](/assets/files/demo_template_aecai_prism_2026.docx)**. This template is for demo proposals only. It requests a short abstract, a one-page demo summary, resource requirements, consent information where applicable, and a downloadable demo video link.
+
 ## Paper Submission & Proceedings
 
 Submit your PRiSM 2026 contribution by **July 16th, 2026** through the **[AE-CAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**. Detailed submission information is available on the [Submission Instructions](./submission.html) page.
