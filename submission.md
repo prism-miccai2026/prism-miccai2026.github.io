@@ -11,7 +11,7 @@ PRiSM 2026 submissions are handled through the joint AE-CAI-PRiSM 2026 submissio
 
 ## Submission Website
 
-Please submit your PRiSM 2026 contribution through the **[AE-CAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAI2026)**.
+Please submit your PRiSM 2026 contribution through the **[AE-CAI 2026 CMT submission site](https://cmt3.research.microsoft.com/AECAIPRISM2026/)**.
 
 ## Demo Proposal Template
 
@@ -19,7 +19,7 @@ For live demo submissions, please use the **[AE-CAI and PRiSM 2026 one-page demo
 
 ## Formatting and Templates
 
-Manuscripts should be formatted according to Wiley's Healthcare Technology Letters (HTL) journal style. Please consult the **[Wiley HTL Author Guide](https://digital-library.theiet.org/journals/htl/author-guide)**, which provides both the **[Microsoft Word template](https://digital-library.theiet.org/files/HTL_Word_template_2016.doc)** and **[LaTeX template](https://digital-library.theiet.org/files/HTL_LaTeX_Template_2014.zip)**.
+Manuscripts should be formatted according to Wiley's Healthcare Technology Letters (HTL) journal style. Please consult the **[Wiley HTL Author Guide](https://digital-library.theiet.org/journals/htl/author-guide)** and format your manuscript using the **[Wiley LaTeX template](https://authors.wiley.com/author-resources/Journal-Authors/Prepare/latex-template.html)**.
 
 We recommend **8 to 10-page manuscripts** for initial submission, and **up to 12-page manuscripts post-revision** for publication.
 

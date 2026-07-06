@@ -40,7 +40,7 @@ In addition to the above, we explicitly welcome medical imaging and intervention
 
 ## Important Dates
 
-- **July 16th, 2026**: Paper Submission Deadline (via [CMT](https://cmt3.research.microsoft.com/AECAI2026))
+- **July 16th, 2026**: Paper Submission Deadline (via [CMT](https://cmt3.research.microsoft.com/AECAIPRISM2026/))
 - **Aug 6th, 2026**: Notification of Acceptance to Workshop
 - **Aug 20th, 2026**: Response to Reviewers and Revised Manuscripts Due
 - **Aug 31st, 2026**: Notification about Special Issue Proceedings
