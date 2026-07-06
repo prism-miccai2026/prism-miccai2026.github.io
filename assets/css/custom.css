@@ -71,13 +71,16 @@
 
 @media (max-width: 768px) {
   .page-header {
-    padding-right: 160px !important;
+    padding-right: 1rem !important;
   }
 
+  /* On narrow screens the logo flows above the title instead of
+     floating top-right, so header content keeps the full width. */
   .page-header .logo {
+    position: static !important;
+    display: block;
+    margin: 0 auto 0.75rem !important;
     width: 128px !important;
-    top: 10px !important;
-    right: 10px !important;
-    opacity: 0.52 !important;
+    opacity: 0.85 !important;
   }
 }
