@@ -1,3 +1,9 @@
+.person-photo {
+  border-radius: 8px;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
 .page-header {
   position: relative;
   background-image: url('/assets/img/PRiSM_Banner_background.png') !important;
