@@ -16,7 +16,7 @@ The workshop will feature keynote talks, technical paper presentations, a panel 
 
 ## Planned Session Types
 
-- Keynote talks by leading experts in CAI and surgical AI
+- [Keynote talks](./keynotes.html) by leading experts in CAI and surgical AI
 - Technical sessions for peer-reviewed papers and clinical case studies
 - Panel discussion with academic, clinical, and industry perspectives
 - Hands-on demonstrations of intervention systems and workflows
