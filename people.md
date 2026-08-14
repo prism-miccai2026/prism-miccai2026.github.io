@@ -59,7 +59,7 @@ filename: people
   </div>
 </div>
 
-## Clinical Advisory Committee (Invited)
+## Clinical Advisory Committee
 
 <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;">
   <img class="person-photo" src="/assets/img/people/shahid_farid.png" alt="Shahid Farid" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" />
@@ -97,7 +97,7 @@ filename: people
   </div>
 </div>
 
-## Industry Advisory Committee (Invited)
+## Industry Advisory Committee
 
 <!-- <div style="display:flex; gap:12px; align-items:flex-start; margin:14px 0;"> -->
   <!-- <img class="person-photo" src="/assets/img/people/malcolm_luker.jpg" alt="Malcolm Luker" width="88" height="88" onerror="this.onerror=null;this.src='/assets/img/people/placeholder.svg';" /> -->
