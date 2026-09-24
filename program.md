@@ -19,13 +19,13 @@ filename: program
 
 **08:00 — Joint Opening Remarks (AECAI–OR 2.0–CARE–PRiSM) & 20th Anniversary AECAI Welcome**
 
-Christian, Marta & Sharib
+Cristian LINTE, Marta KERSTEN-OERTEL & Sharib ALI
 
 ---
 
 **08:10 — Short Oral #1: Endoscopic Reconstruction & Depth: Paper #: 1, 8, 13, 17, 30, 35**
 
-Chairs: Duygu & Sharib
+Chairs: Duygu SARIKAYA & Sharib ALI
 
 1. Endo-DGS: A Deformable 3D Gaussian Splatting Pipeline for Occlusion-Robust, Photorealistic 4D Endoscopic Reconstruction
 8. When Do Reproducible Scores Support a Valid Comparison in Dynamic Endoscopic Reconstruction?
@@ -38,7 +38,7 @@ Chairs: Duygu & Sharib
 
 **08:45 — Short Oral #2: Registration, Tracking & Surgical Scene Modeling: Paper #: 40, 27, 32, 28, 50**
 
-Chairs: Christian & Matina
+Chairs: MIKOLAJ KOWAL & Stamatia Giannarou
 
 40. Appearance Transfer Shader for Gaussian Splatting in Endoscopic Images
 27. Evaluating Transformation Models for pCLE Mosaic Registration
@@ -56,7 +56,7 @@ Chairs: Christian & Matina
 
 **10:30 — Short Oral #3: Augmented Reality & Image-Guided Intervention: Paper #: 2, 3, 15, 16, 25, 29**
 
-Chairs: Marta & Nick
+Chairs: Marta KERSTEN-OERTEL & Cristian LINTE
 
 2. Point-and-Shoot Targeting for Efficient Neurosurgical Trajectory Planning in Mobile Augmented Reality
 3. Inter-Operator Variability in Augmented Reality-Guided Breast Tumor Localization
@@ -69,7 +69,7 @@ Chairs: Marta & Nick
 
 **11:10 — Short Oral #4: Robotic, Ultrasound & Mixed-Reality Guidance: Paper #: 46, 51, 36, 54, 10**
 
-Chairs: Matina & Sharib
+Chairs: Stamatia Giannarou & Sharib ALI 
 
 46. Feasibility of Augmented Reality-Guided Robotic Ultrasound with Cone-Beam CT Integration for Spine Procedures
 51. Towards Practical Mobile Augmented Reality Guidance for Ventriculostomy
@@ -79,17 +79,15 @@ Chairs: Matina & Sharib
 
 ---
 
-**11:40 — Poster & Demo Viewing**
+**11:40 Poster & PRISM Demo Session 2**
 
-Chaired by AECAI and PRiSM committee
-
-**12:30 — Lunch (with Poster & Demo Viewing)**
+**12:30 — Lunch (with Poster & Demo Session)**
 
 ---
 
 **13:30 — Short Oral #5: Surgical AI, Recognition & Skill Assessment: Paper #: 4, 22, 23, 41, 55, 44**
 
-Chairs: Duygu & Matina
+Chairs: Duygu SARIKAYA & Stamatia Giannarou
 
 4. Annotation-Free Representation Learning for Colonoscopy Video Retrieval
 22. Automatic Segmentation of Complex Right Colonic Vasculature: A Novel Dataset and Feasibility Benchmark
@@ -102,7 +100,7 @@ Chairs: Duygu & Matina
 
 **14:10 — Short Oral #6: Simulation, Training & Human Factors: Paper #: 11, 43, 47, 45, 58**
 
-Chairs: Marta & Nick
+Chairs: Marta KERSTEN-OERTEL & MIKOLAJ KOWAL
 
 11. BLISS: A Browser-Based Cross-Platform Patient-Specific Liver Surgery Simulator with AR/VR Support
 43. Patient-Specific Virtual Reality for Lumbar Decompression Surgery: An Automated Imaging Pipeline and Educational Assessment
@@ -112,16 +110,13 @@ Chairs: Marta & Nick
 
 ---
 
-**14:40 — Poster & Demo Session II**
+**14:40 — Poster & Demo Session III**
 
-**15:30 — Coffee Break + Poster & PRiSM Demo Session II continues**
+**15:30 — Coffee Break + Poster & PRiSM Demo Session continues**
 
 **16:00 — 20th Anniversary Panel — 20 Years of AE-CAI: Looking Back and Looking Forward**
 
-**17:15 — Poster & PRiSM Demo Session III / Networking**
-
-**17:50 — Closing Remarks & Awards**
-
-Christian, Sharib & Marta
+**17:45 — Closing Remarks & Awards**
+Cristian LINTE, Sharib ALI & Marta KERSTEN-OERTEL
 
 ---
